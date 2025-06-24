@@ -1,0 +1,1 @@
+https://fastly.jsdelivr.net/gh/lyswhut/lx-music-source/dist/lx-music-source.js
