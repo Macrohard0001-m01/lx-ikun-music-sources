@@ -1,5 +1,7 @@
 # lx-ikun-music-sources
-## **LX_music &amp; IKUN_music 音源收集**
+
+
+## **LX_music &amp; IKUN_music 音源收集**     ![GitHub Repo stars](https://img.shields.io/github/stars/Macrohard0001/lx-ikun-music-sources?style=social)
 
 仅供私用，切勿传播；内容来源于网络，侵删
 
@@ -36,3 +38,9 @@ https://shop.shiqianjiang.cn
 购买链接：https://shop.ikunshare.com/
 
 导入链接：保密，发邮件问我（人家做音源不容易，省得被tx盯上或者被广泛传播，毕竟人家已经关服好几次了）
+
+
+
+## Star History
+
+![Star History Chart](https://api.star-history.com/svg?repos=Macrohard0001/lx-ikun-music-sources&type=Date)
