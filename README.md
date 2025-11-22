@@ -39,7 +39,11 @@ https://shop.shiqianjiang.cn
 
 导入链接：保密，发邮件问我（人家做音源不容易，省得被tx盯上或者被广泛传播，毕竟人家已经关服好几次了）
 
-
+## 关于音源的来源
+本项目部分音源为本人自行搜集（全网搜索太伤肝了/(ㄒoㄒ)/~~），另外有部分转载自
+https://github.com/TZB679/USEFUL-LX-MUSIC-SOURCES
+https://github.com/guoyue2010/lxmusic-
+侵删！侵删！侵删！
 
 ## Star History
 
