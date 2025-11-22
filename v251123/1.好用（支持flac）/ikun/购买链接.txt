@@ -1,0 +1,9 @@
+【购买】
+https://shop.ikunshare.com/
+
+
+【导入】
+注意将“卡密”换成public_source或直接删掉“?key=卡密”可得公益版音源
+http://api.ikunshare.com/script?key=卡密
+备用域名：music.ikun0014.top
+直接的IP地址（高手专用）http://160.202.237.98:9000
